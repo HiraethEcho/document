@@ -26,7 +26,7 @@ This project is built on the following core technologies:
 
 ### Basic Usage
 
-1. Visit the [Online Editor](https://ranuts.github.io/document/)
+1. Visit the [Online Editor](https://hiraethecho.github.io/document/)
 2. Upload your document files
 3. Edit directly in your browser
 4. Download the edited documents
