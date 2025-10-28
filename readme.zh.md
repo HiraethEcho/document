@@ -26,7 +26,7 @@
 
 ### 基本使用
 
-1. 访问 [在线编辑器](https://ranuts.github.io/document/)
+1. 访问 [在线编辑器](https://hiraethecho.github.io/document/)
 2. 上传您的文档文件
 3. 直接在浏览器中编辑
 4. 下载编辑后的文档
